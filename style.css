@@ -1,5 +1,5 @@
 
-ul {
+.navigation {
   list-style-type: none;
   margin: 20;
   padding: 2;
@@ -7,7 +7,7 @@ ul {
   background-color: #c5c1b4;
 }
 
-li {
+.navlink {
   float: left;
 }
 
@@ -31,4 +31,5 @@ li a:focus {
 
 body {
   background-color: #d6d2c4;
+  color: #003b49;
 }
